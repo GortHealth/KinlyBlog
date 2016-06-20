@@ -70,7 +70,7 @@ theme: clean-blog
 deploy:
   type: git
   repo: https://github.com/GortHealth/KinlyBlog
-  branch: [master]
+  branch: [gh-pages]
   name: [blissman]
   email: [blissman@gmail.com]
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"

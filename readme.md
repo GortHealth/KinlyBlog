@@ -14,10 +14,10 @@ This is a blog based on Hexo to be deployed in conjunction with KinlyStatic as a
 Check out the hexo docs if you have any issues:
 https://hexo.io/docs/writing.html
 
-New Posts
+###New Posts
 1. ```hexo new post <title>```
 2. Edit your new post with markdown format.
 
-Deploying to server
+###Deploying to server
 3. ```hexo generate```
 4. ```hexo deploy```

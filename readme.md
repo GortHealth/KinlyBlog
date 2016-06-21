@@ -19,5 +19,6 @@ https://hexo.io/docs/writing.html
 2. Edit your new post with markdown format.
 
 ###Deploying to server
-1. ```hexo generate```
-2. ```hexo deploy```
+1. install the git deployer ```npm install hexo-deployer-git --save```
+2. generate static files ```hexo generate```
+3. deploy to the server ```hexo deploy```

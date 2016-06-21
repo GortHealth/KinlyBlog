@@ -19,5 +19,5 @@ https://hexo.io/docs/writing.html
 2. Edit your new post with markdown format.
 
 ###Deploying to server
-3. ```hexo generate```
-4. ```hexo deploy```
+1. ```hexo generate```
+2. ```hexo deploy```

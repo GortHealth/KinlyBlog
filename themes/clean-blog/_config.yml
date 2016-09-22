@@ -35,3 +35,10 @@ facebook_url:
 github_url:
 linkedin_url:
 mailto: info.kinly@gmail.com
+
+# Feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:

@@ -2,9 +2,6 @@
 menu:
   Home: /
   Archives: /archives
-  Twitter:
-    url: https://twitter.com/kinlycanada
-    icon: twitter
 
 # Title on top left of menu. Leave empty to use main blog title
 menu_title: Kinly

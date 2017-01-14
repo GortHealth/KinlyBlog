@@ -1,5 +1,5 @@
 ---
-title: Competition
+title: Kinly Joins the Synapse: Life Science Competition
 date: 2017-01-14 11:26:42
 tags: Synapse, Life Science, Competition
 ---

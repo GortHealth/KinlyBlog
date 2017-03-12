@@ -1,5 +1,5 @@
 ---
-title: Kinly-Gains-a-New-Team-Member
+title: Kinly Gains a New Team Member
 date: 2017-03-12 14:01:54
 tags: Sarrah, Team, Member, Synapse
 ---
